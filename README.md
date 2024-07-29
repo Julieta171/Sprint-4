@@ -23,7 +23,9 @@ Julieta Jiménez
 * No terminar satisfactoriamente el proyecto.
 * No poder entrelazar la base de datos con express, lo que me hizo iniciar le proyecto de la backend con c#
 * Tuve problemas con las versiones de mi Net9, me cambié a Net8.
-  ~¿Que hice bien?
+
+  
+  ~¿Que hice bien?~
   * Acercarme a mis compañeros y comprender mejor lo que estaba haciendo.
   * Realización de la base de datos de SQL. 
   
